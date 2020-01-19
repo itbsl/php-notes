@@ -1,0 +1,7 @@
+.idea
+composer.lock
+.DS_Store
+/static
+/log
+index.php
+
